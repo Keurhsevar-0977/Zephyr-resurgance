@@ -1,23 +1,16 @@
-#the mod name as displayed in-game
-displayName: "Java Mod Template"
 
-#the internal name of your mod
-name: "example-java-mod"
+displayName: "Zephyr Resurgance"
 
-#your name
-author: "You"
+name: "zephresurge"
 
-#the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+author: "Keurhsevar"
 
-#the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+main: "zephyr.zephyrresurgance"
 
-#the mod version
+description: "Zephyr Resurgance. Mod for all the crazy shit. Made by Keurhsevar."
+
 version: 1.0
 
-#the minimum game build required to run this mod
 minGameVersion: 140
 
-#this is a java mod
 java: true
